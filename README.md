@@ -15,5 +15,9 @@ I have included screen grabs from my mac running Photoscan for the first portion
 
 in the img folder included in this repository. 
 
+> Link to SFM
+
+https://cookm2.github.io/lab6/
+
 
 
